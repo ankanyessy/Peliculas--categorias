@@ -1,0 +1,68 @@
+
+.container {
+	max-width: 1280px;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+.logo img {
+	height: 100px;
+	width: 30%;
+
+}
+
+h4 {
+	font-family: helvetica;
+	font-size: 23px;
+}
+
+
+.categoria {
+	background-color: #121111;
+	height: 100px;
+	display: inline-block;
+	margin: 0;
+	width: 100%;
+}
+
+.category {
+	display: inline;
+}
+
+.cuadroPeliculas {
+	background-color: #121111;
+	margin: 0;
+}
+
+.detallePeliculas {
+	display: inline-block;
+	margin: 20px 20px 20px 90px;
+}
+
+p {
+	text-decoration: justify;
+}
+
+.ventana {
+	position: fixed;
+	margin: auto;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	color: #fff;
+}
+
+.vModales {
+	position: absolute;
+	height: 10px;
+	width: 20%;
+}
+
+.videos {
+	height: 100px;
+	width: 50%;
+}
